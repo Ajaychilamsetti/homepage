@@ -2,4 +2,4 @@
 
 For live view of website click below
 
-https://ajaychilamsetti.github.io/welandingpage/
+https://ajaychilamsetti.github.io/homepage/
